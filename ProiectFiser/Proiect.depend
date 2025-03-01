@@ -1,0 +1,68 @@
+# depslib dependency file v1.0
+1673026713 source:c:\users\pall_\documents\c\proiect incercari\proiect\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+
+1673883362 source:c:\users\poly\downloads\wetransfer_proiect-rar_2023-01-08_1101\proiectfiser\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"firstQuestions.h"
+
+1673883373 c:\users\poly\downloads\wetransfer_proiect-rar_2023-01-08_1101\proiectfiser\firstquestions.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"firstQuestions.c"
+	"secondQuestions.c"
+	"thirdQuestions.c"
+	"fourthQuestions.c"
+
+1673881458 c:\users\poly\downloads\wetransfer_proiect-rar_2023-01-08_1101\proiectfiser\firstquestions.c
+	"firstQuestions.h"
+
+1673209184 c:\users\poly\downloads\wetransfer_proiect-rar_2023-01-08_1101\proiectfiser\secondquestions.c
+	"firstQuestions.h"
+
+1673275531 c:\users\poly\downloads\wetransfer_proiect-rar_2023-01-08_1101\proiectfiser\thirdquestions.c
+	"firstQuestions.h"
+
+1673881452 c:\users\poly\downloads\wetransfer_proiect-rar_2023-01-08_1101\proiectfiser\fourthquestions.c
+	"firstQuestions.h"
+
+1740839571 source:c:\users\poly\documents\facultate\an1sem1\computerprogramming\proiectfiser\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"firstQuestions.h"
+	"firstQuestions.c"
+	"secondQuestions.c"
+	"thirdQuestions.c"
+	"fourthQuestions.c"
+
+1740839988 c:\users\poly\documents\facultate\an1sem1\computerprogramming\proiectfiser\firstquestions.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+
+1740840008 c:\users\poly\documents\facultate\an1sem1\computerprogramming\proiectfiser\firstquestions.c
+	"firstQuestions.h"
+
+1740840024 c:\users\poly\documents\facultate\an1sem1\computerprogramming\proiectfiser\secondquestions.c
+	"firstQuestions.h"
+
+1740839974 c:\users\poly\documents\facultate\an1sem1\computerprogramming\proiectfiser\thirdquestions.c
+	"firstQuestions.h"
+
+1740839628 c:\users\poly\documents\facultate\an1sem1\computerprogramming\proiectfiser\fourthquestions.c
+	"firstQuestions.h"
+
+1740839550 source:c:\users\poly\documents\facultate\an1sem1\computerprogramming\proiectfiser\helpers.c
+	"firstQuestions.h"
+
